@@ -51,12 +51,3 @@ i write memos — reflections on building in AI, what i'm learning,
 what surprised me. no schedule, no filter.
 
 → [akshit.fyi/memos](https://akshit.fyi/memos)
-
----
-
-## find me
-
-[akshit.fyi](https://akshit.fyi) ·
-[x](https://x.com/akshit_varsani_) ·
-[linkedin](https://linkedin.com/in/akshit-varsani) ·
-[instagram](https://instagram.com/akshit_varsani)
